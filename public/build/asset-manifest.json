@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.384273ec.css",
+    "main.js": "/static/js/main.69c95d33.js",
+    "static/js/787.7eed15a2.chunk.js": "/static/js/787.7eed15a2.chunk.js",
+    "static/media/bitcoins-and-u-s-dollar-bills-730547.png": "/static/media/bitcoins-and-u-s-dollar-bills-730547.a530b4d2e0554ef3e713.png",
+    "static/media/photo-of-people-sitting-beside-table-3182755.png": "/static/media/photo-of-people-sitting-beside-table-3182755.94c33467adc561501ed1.png",
+    "static/media/photo-of-women-having-conversation-3194524.png": "/static/media/photo-of-women-having-conversation-3194524.d1e97014243fe674b514.png",
+    "static/media/top-view-of-assorted-gadgets-on-desk-3568520.png": "/static/media/top-view-of-assorted-gadgets-on-desk-3568520.58cca972fb9ff3ae038b.png",
+    "static/media/p1.png": "/static/media/p1.18e4bad133a54bb0ddaa.png",
+    "static/media/Podcasts_(iOS).svg.png": "/static/media/Podcasts_(iOS).svg.b6bebbd08ec9eea92d74.png",
+    "static/media/png-transparent-spotify-podcast-spotify-logo-text-logo-music-download-removebg-preview.png": "/static/media/png-transparent-spotify-podcast-spotify-logo-text-logo-music-download-removebg-preview.7c23873d888493671b79.png",
+    "static/media/Logo1.svg": "/static/media/Logo1.a37ebd53080619bf3f839b4d3692684d.svg",
+    "static/media/Logo.svg": "/static/media/Logo.c2e99dba0f53df1b94519adcece45520.svg",
+    "index.html": "/index.html",
+    "static/media/Google_Podcasts_icon.svg": "/static/media/Google_Podcasts_icon.87587f9b89066dd9f3c5f175b4da7552.svg",
+    "main.384273ec.css.map": "/static/css/main.384273ec.css.map",
+    "main.69c95d33.js.map": "/static/js/main.69c95d33.js.map",
+    "787.7eed15a2.chunk.js.map": "/static/js/787.7eed15a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384273ec.css",
+    "static/js/main.69c95d33.js"
+  ]
+}

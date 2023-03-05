@@ -21,11 +21,11 @@ const Episods = () => {
                     <button className='bg-blue-700 text-white border-blue-700 text-lg px-8 py-2'>See All Episiodes</button>
                 </div>
             </div>
-            <div className='mt-16 grid grid-cols-3 gap-4'>
-                <div>
+            <div className='mt-16 grid grid-cols-3 gap-10'>
+                <div >
                     <div className='relative '>
-                        <img className='w-96' src={photo1} alt="" />
-                        <div className='w-9 text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <img className='w-full' src={photo1} alt="" />
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -38,8 +38,8 @@ const Episods = () => {
                 </div>
                 <div>
                     <div className='relative '>
-                        <img className='w-96' src={photo2} alt="" />
-                        <div className='w-9 text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <img className='w-full' src={photo2} alt="" />
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -52,8 +52,8 @@ const Episods = () => {
                 </div>
                 <div>
                     <div className='relative '>
-                        <img className='w-96' src={photo3} alt="" />
-                        <div className='w-9 text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <img className='w-full' src={photo3} alt="" />
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -65,7 +65,7 @@ const Episods = () => {
                     </button>
                 </div>
                 <div >
-                    <div className='w-96 bg-[#F4F2FF]'>
+                    <div className='w-full bg-[#F4F2FF]'>
                         <div className='px-10 py-14'>
                             <h1 className='text-3xl  font-bold '>Read our <br /> articles & news</h1>
                             <button className='text-[#503AE7] font-semibold'>See More</button>
@@ -75,8 +75,8 @@ const Episods = () => {
                 </div>
                 <div>
                     <div className='relative '>
-                        <img className='w-96' src={photo4} alt="" />
-                        <div className='w-9 text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <img className='w-full' src={photo4} alt="" />
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -89,8 +89,8 @@ const Episods = () => {
                 </div>
                 <div>
                     <div className='relative '>
-                        <img className='w-96' src={photo5} alt="" />
-                        <div className='w-9 text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <img className='w-full' src={photo5} alt="" />
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
