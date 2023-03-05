@@ -25,7 +25,7 @@ const Episods = () => {
                 <div >
                     <div className='relative '>
                         <img className='w-full' src={photo1} alt="" />
-                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-3 right-4'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -39,7 +39,7 @@ const Episods = () => {
                 <div>
                     <div className='relative '>
                         <img className='w-full' src={photo2} alt="" />
-                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-3 right-4'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -53,7 +53,7 @@ const Episods = () => {
                 <div>
                     <div className='relative '>
                         <img className='w-full' src={photo3} alt="" />
-                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-3 right-4'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -76,7 +76,7 @@ const Episods = () => {
                 <div>
                     <div className='relative '>
                         <img className='w-full' src={photo4} alt="" />
-                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-3 right-4'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
@@ -90,7 +90,7 @@ const Episods = () => {
                 <div>
                     <div className='relative '>
                         <img className='w-full' src={photo5} alt="" />
-                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-4 right-8'>
+                        <div className='text-center p-2 bg-[#503AE7] rounded-full text-white absolute top-3 right-4'>
                             <FaMicrophone className='text-xl' />
                         </div>
                     </div>
